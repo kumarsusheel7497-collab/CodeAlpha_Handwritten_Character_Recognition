@@ -15,4 +15,4 @@ MNIST Dataset
 Achieved high accuracy on handwritten digit recognition.
 
 ## Author
-Susheel Sushanth
+Susheel kumar 
